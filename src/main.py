@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.WARN,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 TOKEN = os.getenv(
-    "TOKEN", "5114000140:AAH5A5GxFyhjc934sIuMVb3yUKl30gmc7gU"
+    "TOKEN", ""
 )
 
 def main() -> None:
